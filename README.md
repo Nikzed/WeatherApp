@@ -5,6 +5,7 @@ Test application to track weather depending on user location.
 ## Getting Started
 
 To install an app you use `git clone https://github.com/Nikzed/WeatherApp.git`
+
 This app uses `geolocator` to track position, `provider` as a state manager, `get_it` dependency injection, `dio` and `retrofit` to work with requests and `logger` to check an output
 # Sunny
 <img src="https://github.com/Nikzed/WeatherApp/assets/38156331/e45159fc-60fb-4188-993a-54b8b9de9e21" width="480">
